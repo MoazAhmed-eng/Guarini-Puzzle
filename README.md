@@ -3,7 +3,7 @@
 ## USING DIVIDE AND CONQUER TECHNIQUE
 
 ##
-![alt text](https://github.com/HelalyJunior/Guarini-Extended-Puzzlen/blob/main/steps.png)
+![alt text](https://github.com/HelalyJunior/Guarini-Extended-Puzzle/blob/main/steps.png)
 
 This is an indvidual task presented in Design and analysis of algorithms (CSE332)
 
