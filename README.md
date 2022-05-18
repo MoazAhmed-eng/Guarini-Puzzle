@@ -7,7 +7,7 @@
 
 This is an indvidual task presented in Design and analysis of algorithms (CSE332)
 
-##TO TRY THE PUZZLE YOURSELF JUST COMPILE THE .CPP FILE AND THEN RUN THE EXCUTABLE IN TERMINAL
+## TO TRY THE PUZZLE YOURSELF JUST COMPILE THE .CPP FILE AND THEN RUN THE EXCUTABLE IN TERMINAL
 ```
 g++ Guaraini'sPuzzle.cpp 
 a.exe
